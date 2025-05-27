@@ -1,7 +1,7 @@
 # Parking-Lot-Simulation
 
-Course : Introduction to Computing II [Java]
-Semester : Winter 2025
+Course : Introduction to Computing II [Java] |
+Semester : Winter 2025 |
 Contributors : Manya Kumar, Nicolas Benavides
 
 PROJECT OVERVIEW
